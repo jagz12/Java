@@ -24,13 +24,16 @@ public class App {
 //
 //        System.out.println(spike.getCoat());
 
-        Circle circle = new Circle(5);
-        Rectangle rectangle = new Rectangle(5, 10);
+//        Circle circle = new Circle(5);
+//        Rectangle rectangle = new Rectangle(5, 10);
+//
+//        Shape[] shapes = {circle, rectangle};
+//        for(Shape shape : shapes) {
+//                System.out.println(shape.toString());
+//            }
 
-        Shape[] shapes = {circle, rectangle};
-        for(Shape shape : shapes) {
-                System.out.println(shape.toString());
-            }
+
+
     }
 
 }
