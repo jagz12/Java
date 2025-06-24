@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2dbaa72-9a5d-4586-9d4a-f4da84b23366" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/Eatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/OOP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Operator Lessons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlow_Lab_Starter/src/main/java/com/sparta/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow_Lab_Starter/src/main/java/com/sparta/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlow_Lab_Starter/src/test/java/com/sparta/Exercises_Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlow_Lab_Starter/src/test/java/com/sparta/Exercises_Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/Enums.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/Enums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/FilmClassification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/FilmClassification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/LoopExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/LoopExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/Loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/SelectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/SelectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/main/java/com/sparta/jag/basics/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/test/java/com/sparta/jag/FilmClassificationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/test/java/com/sparta/jag/basics/FilmClassificationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaUpskilling/src/test/java/com/sparta/jag/GreetingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaUpskilling/src/test/java/com/sparta/jag/basics/GreetingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators_Lab_Starter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Operators_Lab_Starter/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2yuAtW9OaO5piM7zufvKJJIvVEP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jag/Documents/Java/Operator Lessons&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2dbaa72-9a5d-4586-9d4a-f4da84b23366" name="Changes" comment="" />
+      <created>1750674299151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750674299151</updated>
+    </task>
+    <servers />
+  </component>
+</project>

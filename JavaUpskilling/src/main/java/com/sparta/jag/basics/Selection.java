@@ -1,4 +1,4 @@
-package com.sparta.jag;
+package com.sparta.jag.basics;
 
 public class Selection {
     public static void main(String[] args) {

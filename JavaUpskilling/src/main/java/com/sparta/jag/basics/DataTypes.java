@@ -1,4 +1,4 @@
-package com.sparta.jag;
+package com.sparta.jag.basics;
 
 import java.time.LocalDate;
 import java.time.Period;

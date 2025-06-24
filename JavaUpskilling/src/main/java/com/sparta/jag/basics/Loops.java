@@ -1,4 +1,4 @@
-package com.sparta.jag;
+package com.sparta.jag.basics;
 
 public class Loops {
     public static void main(String[] args) {

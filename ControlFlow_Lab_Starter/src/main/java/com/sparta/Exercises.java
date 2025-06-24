@@ -4,7 +4,7 @@ public class Exercises {
 
     // Question 1 change this method so that it uses the ternary operator ?
     public static String getForecast(int temp) {
-        return (temp < 15) ? "It's cold" : "It's hot";
+            return (temp < 15) ? "It's cold" : "It's hot";
     }
 //        if (temp < 15)
 //            return "It's cold";
@@ -14,7 +14,8 @@ public class Exercises {
 
     // Question 2
     // returns the average of the array nums
-    public static double average(int[] nums) {
+    public static double average(int[] nums)
+    {
         return -1;
     }
 
@@ -26,22 +27,23 @@ public class Exercises {
     // "Student" if they are 13-17 inclusive
     // "Child" if they are 5-12
     // "Free" if they are under 5
-    public static String ticketType(int age) {
-        String ticketType = "";
+    public static String ticketType(int age)
+    {
+        String ticketType = "ReturnTicketType";
 
         // Ask Nish? why does the above work?
 
         if (age >= 60) {
-            ticketType = "OAP";
-        } else if (age >= 18) {
-            ticketType = "Standard";
-        } else if (age >= 13) {
-            ticketType = "Student";
-        } else if (age >= 5) {
-            ticketType = "Child";
-        } else {
-            ticketType = "Free";
-        }
+        ticketType = "OAP";
+    } else if (age >= 18) {
+        ticketType = "Standard";
+    } else if (age >= 13) {
+        ticketType = "Student";
+    } else if (age >= 5) {
+        ticketType = "Child";
+    } else {
+        ticketType = "Free";
+    }
         return ticketType;
     }
 
@@ -49,7 +51,8 @@ public class Exercises {
 
     // Ask Nish what the underline is indicating ??
 
-    public static String grade(int mark) {
+    public static String grade(int mark)
+    {
         var grade = "result";
         if (mark >= 75) {
             grade = "Pass with Distinction";
@@ -64,9 +67,8 @@ public class Exercises {
     }
 
     // Question 5
-    public static int getScottishMaxWeddingNumber(int covidLevel) {
-//        var level = "Number"
-//        return 0;
+    public static int getScottishMaxWeddingNumber(int covidLevel){
+
             int maxAttendees;
 
             switch (covidLevel) {
@@ -87,4 +89,10 @@ public class Exercises {
                     maxAttendees = 0; // Return 0 for unknown levels
                     break;
             }
-        }
+
+        return maxAttendees;
+
+    }
+}
+
+
